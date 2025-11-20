@@ -8,7 +8,7 @@ This repository showcases my work, projects, and skills as a developer. Below yo
 
 ## Preview
 
-![Portfolio Screenshot]([assets/portfolio-screenshot.png](https://opengraph.b-cdn.net/production/images/ee729702-43d4-467d-9a04-8dafa9d90e20.png?token=JcdeELdxOgK2WnOL3CtumxPYkKmHeE8mz1q807bKYMw&height=630&width=1200&expires=33299645861)
+![Portfolio Screenshot]([[assets/portfolio-screenshot.png](https://opengraph.b-cdn.net/production/images/ee729702-43d4-467d-9a04-8dafa9d90e20.png?token=JcdeELdxOgK2WnOL3CtumxPYkKmHeE8mz1q807bKYMw&height=630&width=1200&expires=33299645861)](https://opengraph.b-cdn.net/production/images/ee729702-43d4-467d-9a04-8dafa9d90e20.png?token=JcdeELdxOgK2WnOL3CtumxPYkKmHeE8mz1q807bKYMw&height=630&width=1200&expires=33299645861)
 
 *Place an actual screenshot of your portfolio website in `assets/portfolio-screenshot.png` and it will appear above.*
 
